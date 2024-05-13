@@ -1,5 +1,4 @@
-## Hi there 👋
-### I'm Aléssio 🦟
+# 👋 Hi there, I'm Aléssio 🦟
 
 - 📚 Graduating in Mechatronics Engineering at EESC-USP
 - 🦼 Working on autonomous Robots
